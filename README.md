@@ -2,6 +2,8 @@
 Un script simple pour se cacher dans un coffre de voiture
 
 # Support
+Il y a aucun support pour se script
+
 Discord : 𝐌𝐚𝐭𝐝𝐬𝐬𝐚#0001
 
 # Utiliser Git
