@@ -6,5 +6,7 @@ Discord : 𝐌𝐚𝐭𝐝𝐬𝐬𝐚#0001
 
 # Utiliser Git
 
-cd resources
-git clone https://github.com/Matdssa/HideInTrunk_matd [plugins]/HideInTrunk_matd
+.cd resources
+.git clone https://github.com/Matdssa/HideInTrunk_matd [plugins]/HideInTrunk_matd
+
+
