@@ -10,4 +10,6 @@ cd resources
 
 git clone https://github.com/Matdssa/HideInTrunk_matd [plugins]/HideInTrunk_matd
 
+# Installation
 
+start HideInTrunk_matd
