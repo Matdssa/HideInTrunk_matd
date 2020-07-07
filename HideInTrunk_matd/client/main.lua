@@ -2,7 +2,7 @@
 ----𝐌𝐚𝐭𝐝𝐬𝐬𝐚#0001----
 --------------------
 print("")
-print("^1Auteur :𝐌𝐚𝐭𝐝𝐬𝐬𝐚#0001^0")
+print("^1Auteur :Matdssa#0001^0")
 print("")
 local inTrunk = false
 
